@@ -12,7 +12,7 @@ Frameworks and Libraries: Angular, React
 
 Tests: Cypress, Jest, Jasmine
 
-CI/ CD: Jenkins
+CI/ CD: Jenkins, Bitbucket, GitHub
 
 
 ## Professional Goals

@@ -6,13 +6,15 @@ Since I was a kid, I was deeply fascinated with computers and I've let that curi
 
 ## Technical Skills
 
-Languages: HTML, CSS, JavaScript, TypeScript
+Languages: HTML, CSS, SASS, JavaScript, TypeScript
 
-Frameworks and Libraries: Angular, React
+Frameworks and Libraries: Angular, React, RxJs
 
-Tests: Cypress, Jest, Jasmine
+Testing: Cypress, Jest, Jasmine
 
 CI/ CD: Jenkins, Bitbucket, GitHub
+
+Tools: Storybook, NgRx, Nx, Redux
 
 
 ## Professional Goals

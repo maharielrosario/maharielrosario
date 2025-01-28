@@ -19,8 +19,7 @@ Tools: Storybook, NgRx, Nx, Redux
 
 ## Professional Goals
 
-- Earn a certification in software engineering
-- Work with companies to adopt design systems
+- Work with companies to establish design systems
 - Architect the front end landscape of apps
 
 
@@ -28,7 +27,7 @@ Tools: Storybook, NgRx, Nx, Redux
 
 [LinkedIn](https://www.linkedin.com/in/mahariel/)
 
-[Email](mailto:me@maharielrosar.io)
+[Email](mailto:mahariel@maharielrosar.io)
 
 
 <!--

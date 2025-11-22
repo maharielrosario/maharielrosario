@@ -27,7 +27,7 @@ Tools: Storybook, NgRx, Nx, Redux
 
 [LinkedIn](https://www.linkedin.com/in/mahariel/)
 
-[Email](mailto:mahariel@maharielrosar.io)
+[Email](mailto:mahariel@rosario.dev)
 
 
 <!--
